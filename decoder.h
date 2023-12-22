@@ -28,7 +28,6 @@
 #include <string.h>
 #include "dct4.h"
 #include "rmlt.h"
-#include "huffman.h"
 #include "common.h"
 
 
